@@ -1,0 +1,15 @@
+C:\Projetos\SistemaNassau\SistemaNassau.Application\bin\Debug\net7.0\SistemaNassau.Application.deps.json
+C:\Projetos\SistemaNassau\SistemaNassau.Application\bin\Debug\net7.0\SistemaNassau.Application.dll
+C:\Projetos\SistemaNassau\SistemaNassau.Application\bin\Debug\net7.0\SistemaNassau.Application.pdb
+C:\Projetos\SistemaNassau\SistemaNassau.Application\obj\Debug\net7.0\SistemaNassau.Application.csproj.AssemblyReference.cache
+C:\Projetos\SistemaNassau\SistemaNassau.Application\obj\Debug\net7.0\SistemaNassau.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\SistemaNassau\SistemaNassau.Application\obj\Debug\net7.0\SistemaNassau.Application.AssemblyInfoInputs.cache
+C:\Projetos\SistemaNassau\SistemaNassau.Application\obj\Debug\net7.0\SistemaNassau.Application.AssemblyInfo.cs
+C:\Projetos\SistemaNassau\SistemaNassau.Application\obj\Debug\net7.0\SistemaNassau.Application.csproj.CoreCompileInputs.cache
+C:\Projetos\SistemaNassau\SistemaNassau.Application\obj\Debug\net7.0\SistemaNassau.Application.dll
+C:\Projetos\SistemaNassau\SistemaNassau.Application\obj\Debug\net7.0\refint\SistemaNassau.Application.dll
+C:\Projetos\SistemaNassau\SistemaNassau.Application\obj\Debug\net7.0\SistemaNassau.Application.pdb
+C:\Projetos\SistemaNassau\SistemaNassau.Application\obj\Debug\net7.0\ref\SistemaNassau.Application.dll
+C:\Projetos\SistemaNassau\SistemaNassau.Application\bin\Debug\net7.0\SistemaNassau.Domain.dll
+C:\Projetos\SistemaNassau\SistemaNassau.Application\bin\Debug\net7.0\SistemaNassau.Domain.pdb
+C:\Projetos\SistemaNassau\SistemaNassau.Application\obj\Debug\net7.0\SistemaNassau.Application.csproj.CopyComplete

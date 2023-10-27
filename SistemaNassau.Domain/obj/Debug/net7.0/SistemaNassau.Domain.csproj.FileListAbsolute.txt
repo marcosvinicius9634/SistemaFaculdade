@@ -1,0 +1,12 @@
+C:\Projetos\SistemaNassau\SistemaNassau.Domain\bin\Debug\net7.0\SistemaNassau.Domain.deps.json
+C:\Projetos\SistemaNassau\SistemaNassau.Domain\bin\Debug\net7.0\SistemaNassau.Domain.dll
+C:\Projetos\SistemaNassau\SistemaNassau.Domain\bin\Debug\net7.0\SistemaNassau.Domain.pdb
+C:\Projetos\SistemaNassau\SistemaNassau.Domain\obj\Debug\net7.0\SistemaNassau.Domain.csproj.AssemblyReference.cache
+C:\Projetos\SistemaNassau\SistemaNassau.Domain\obj\Debug\net7.0\SistemaNassau.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\SistemaNassau\SistemaNassau.Domain\obj\Debug\net7.0\SistemaNassau.Domain.AssemblyInfoInputs.cache
+C:\Projetos\SistemaNassau\SistemaNassau.Domain\obj\Debug\net7.0\SistemaNassau.Domain.AssemblyInfo.cs
+C:\Projetos\SistemaNassau\SistemaNassau.Domain\obj\Debug\net7.0\SistemaNassau.Domain.csproj.CoreCompileInputs.cache
+C:\Projetos\SistemaNassau\SistemaNassau.Domain\obj\Debug\net7.0\SistemaNassau.Domain.dll
+C:\Projetos\SistemaNassau\SistemaNassau.Domain\obj\Debug\net7.0\refint\SistemaNassau.Domain.dll
+C:\Projetos\SistemaNassau\SistemaNassau.Domain\obj\Debug\net7.0\SistemaNassau.Domain.pdb
+C:\Projetos\SistemaNassau\SistemaNassau.Domain\obj\Debug\net7.0\ref\SistemaNassau.Domain.dll

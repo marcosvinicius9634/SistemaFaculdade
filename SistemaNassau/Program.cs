@@ -1,10 +1,21 @@
+using Microsoft.EntityFrameworkCore;
+using SistemaNassau.Data.Context;
+using Microsoft.EntityFrameworkCore.Design;
+using Template.IoC;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 
 builder.Services.AddControllersWithViews();
 
+builder.Services.AddDbContext<BancoDbContext>(options =>
+options.UseMySql("server=localhost;userid=admin;password=123456;database=SistemaNassau", Microsoft.EntityFrameworkCore.ServerVersion.Parse("8.0.33-mysql")));
+
+NativeInjector.RegisterService(builder.Services);
 var app = builder.Build();
+
+
 
 // Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())
